@@ -1,0 +1,47 @@
+[
+    {
+      "_id": "65fda5a8f43fb1e2e96c83b0",
+      "name": "Ann Byrd",
+      "email": "annbyrd@comtrail.com",
+      "role": "admin",
+      "active": false,
+      "photo": "user-4.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda5a828748bb3db17f700",
+      "name": "Leann Douglas",
+      "email": "leanndouglas@comtrail.com",
+      "role": "user",
+      "active": true,
+      "photo": "user-4.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda5a80b688915a69e277c",
+      "name": "Rosemary Spence",
+      "email": "rosemaryspence@comtrail.com",
+      "role": "user",
+      "active": true,
+      "photo": "user-1.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda5a8f2e14b10cd944451",
+      "name": "Terry Bartlett",
+      "email": "terrybartlett@comtrail.com",
+      "role": "admin",
+      "active": true,
+      "photo": "user-2.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda5a8c04b956dcc2ec9d0",
+      "name": "Farrell Ellison",
+      "email": "farrellellison@comtrail.com",
+      "role": "user",
+      "active": true,
+      "photo": "user-1.jpg",
+      "password": ""
+    }
+  ]
